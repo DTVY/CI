@@ -1,0 +1,7 @@
+/core/
+/sources.mk
+/subdir.mk
+/esp8266libs/
+/libraries/
+/makefile
+/objects.mk
